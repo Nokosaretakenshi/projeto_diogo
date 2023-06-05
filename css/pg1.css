@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(173, 114, 114);
+}
+
+.pag1a{
+    color: rgb(0, 0, 0);
+    position: relative;
+    border-color: black;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.vid{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
